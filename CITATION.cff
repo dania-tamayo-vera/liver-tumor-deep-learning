@@ -1,12 +1,11 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
-title: >-
-  Accurate Segmentation of Liver Tumor based on Deep
-  learning
-message: >-
-  If you use this software, please cite it using the
-  metadata from this file.
-type: software
-authors: []
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Liu"
+  given-names: "Kai"
+  orcid: ""
+
+title: "Accurate Segmentation of Liver Tumor based on Deep learning"
+version: 1.0.1
+date-released: 2021-12-19
+url: "https://github.com/dania-tamayo-vera/liver-tumor-deep-learning"
